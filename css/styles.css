@@ -2299,6 +2299,10 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+  .display-1{
+    font-size: 4.8rem;
+    font-weight: 600;
+  }
 }
 
 
