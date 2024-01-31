@@ -10169,6 +10169,7 @@ footer a:focus {
 .project_box {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .project {
@@ -10272,7 +10273,7 @@ footer a:focus {
 
 .about_box {
   padding: 3rem 4rem 3rem 4rem;
-  background-image: url(/assets/img/workflow_img.png);
+  background-image: url(../assets/img/workflow_img.png);
   color: #000;
   justify-content: center;
   align-items: center;
