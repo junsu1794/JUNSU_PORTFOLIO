@@ -10239,9 +10239,8 @@ footer a:focus {
 
 .today {
   display: flex;
-  width: 25%;
+  width: 30%;
   margin-bottom: 3rem;
-  margin-left: 4rem;
 }
 
 .about {
