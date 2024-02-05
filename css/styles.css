@@ -10342,7 +10342,7 @@ footer a:focus {
 }
 
 .about_box3 {
-  background-image: url(../assets/img/about_box3.jpg);
+  background-image: url(../assets/img/about_box3.png);
 }
 
 .about_box4 {
@@ -10385,12 +10385,5 @@ footer a:focus {
 .fade-in.fade-in-visible {
   opacity: 1;
   transform: translateY(0);
-}
-
-.footer_w3c {
-  margin-top: 2rem;
-}
-
-.footer_w3c>a>img {
-  width: 5%;
+  gap: 1.5rem;
 }
