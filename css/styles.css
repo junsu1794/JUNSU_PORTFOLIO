@@ -2322,6 +2322,12 @@ progress {
   .project1>img {
     width: 67%;
   }
+  .project2>img {
+    width: 67%;
+  }
+  .project3>img {
+    width: 67%;
+  }
 }
 
 .input-group {
@@ -10194,13 +10200,21 @@ footer a:focus {
   border-radius: 1.5rem;
 }
 
-.project1 {
+.project1,
+.project2,
+.project3 {
   display: flex;
   gap: 1rem;
   justify-content: center;
 }
 
 .project1>img {
+  width: 67%;
+}
+.project2>img {
+  width: 67%;
+}
+.project3>img {
   width: 67%;
 }
 
